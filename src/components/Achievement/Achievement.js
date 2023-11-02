@@ -24,7 +24,7 @@ function Achievement() {
                         title={achieve.title}
                         details={achieve.details}
                         date={achieve.date}
-                        field={achieve.field}
+                        // field={achieve.field}
                         image={achieve.image}/>
                     ))}
                 </div>

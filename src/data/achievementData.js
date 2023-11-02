@@ -1,31 +1,23 @@
+import Image1 from '../assets/images/Image1.png';
+import Image2 from '../assets/images/Image2.png';
+
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "Experienced IT Development professional with certifications in JavaScript, React, and more. Proficient in React, JavaScript, MaterialUI, HTML, and CSS, and skilled in delivering successful projects for clients.",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'JavaScript Algorithms and Data Structures',
+            details : 'JavaScript Algorithms and Data Structures certifications validate your expertise and showcase your ability on JavaScript syntax, ES6 features, and common algorithms and data structures used in software development.',
+            date : 'June 14, 2023',
+            image : Image2
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
-        },
-        {
-            id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
-        }
-
+            title : 'Front End Development Libraries',
+            details : 'curriculum for learning front-end web development, covering HTML, CSS, JavaScript, and popular libraries like React and D3.js. It provides interactive coding challenges, projects, and certifications to help you build real-world web development skills.',
+            date : 'August 23, 2023',
+            image : Image1
+        }    
     ]
 }
 
