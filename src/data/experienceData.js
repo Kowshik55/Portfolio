@@ -1,23 +1,37 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'Unique Logic',
+        jobtitle: 'Software Engineer',
+        startYear: 'Jan 2019',
+        endYear: 'Aug 2021'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        Company: 'University of Nebraska - Omaha', 
+        jobtitle: 'Django Developer',
+        startYear: 'Aug 2021',
+        endYear: 'Jan 2022'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
+        company: 'Silicon Valley Bank',
+        jobtitle: 'Software Engineer',
+        startYear: 'Jan 2022',
+        endYear: 'Jan 2023'
     },
+    {
+        id: 4,
+        company: 'University of Nebraska - Omaha',
+        jobtitle: 'Full Stack Engineer',
+        startYear: 'Jan 2023',
+        endYear: 'May 2023'
+    },
+    {
+        id: 5,
+        company: 'Invictus',
+        jobtitle: 'Software Engineer',
+        startYear: 'June 2023',
+        endYear: 'Present'
+    }
 ]

@@ -1,12 +1,20 @@
  export const skillsData = [
-    'HTML',
-    'Fastify',
-    'Blender',
+    'HTML',    
+    'CSS',
     'Figma',
     'Javascript',
-    'CSS',
     'React',
     'Django',
+    'C#',
+    'Python',
+    'MySQL',
+    'PostgreSQL',
+    'REST API',
+    'Django',
+    'Selenium',
+    'Git',
+    'MaterialUI',
+    'Jest',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -94,4 +102,5 @@
     Tensorflow
     Webex
     Wordpress
+    Jest
 */
